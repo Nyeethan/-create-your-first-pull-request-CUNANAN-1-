@@ -2,3 +2,6 @@ Expectations in CMSC 100:
 -It would be fun and we will get to explore more about web programming
 -Super interesting with this first class and damang dama na yung pagka comsci ngayon HAHSDUISAHDIHAS so more comsci stuffs siguro as we go through this sem, especially with CMSC 100
 -Learn a lot about cmsc
+ 
+ Comments from partner:
+ I agree with everything above, using git for the first time is ovewhelming but fun
